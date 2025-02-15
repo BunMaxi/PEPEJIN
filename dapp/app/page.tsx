@@ -98,7 +98,7 @@ export default function Home() {
               <div className="bg-green-900 bg-opacity-75 p-6 rounded-lg">
                 <h4 className="text-xl font-semibold mb-2">Phase 1: The Tadpole Awakens</h4>
                 <ul className="list-disc list-inside">
-                  <li>Master the art of the perfectly timed "ribbit"</li>
+                  <li>Master the art of the perfectly timed &quot;ribbit&quot;</li>
                   <li>Achieve 1,000 followers on FrogTok</li>
                   <li>Successfully photobomb 50 tourist pictures at Mount Fuji</li>
                 </ul>
@@ -107,15 +107,15 @@ export default function Home() {
                 <h4 className="text-xl font-semibold mb-2">Phase 2: Samurai Training Montage</h4>
                 <ul className="list-disc list-inside">
                   <li>Learn to slice a fly mid-air with a miniature katana</li>
-                  <li>Master the "crane kick" from Karate Kid (but make it frog-style)</li>
-                  <li>Develop a signature move called "The Hopposite Direction"</li>
+                  <li>Master the &quot;crane kick&quot; from Karate Kid (but make it frog-style)</li>
+                  <li>Develop a signature move called &quot;The Hopposite Direction"</li>
                 </ul>
               </div>
               <div className="bg-green-900 bg-opacity-75 p-6 rounded-lg">
                 <h4 className="text-xl font-semibold mb-2">Phase 3: The Meme Crusade</h4>
                 <ul className="list-disc list-inside">
-                  <li>Become a playable character in "Super Smash Frogs Ultimate"</li>
-                  <li>Start a viral dance trend called the "Samurai Shuffle"</li>
+                  <li>Become a playable character in &quot;Super Smash Frogs Ultimate&quot;</li>
+                  <li>Start a viral dance trend called the &quot;Samurai Shuffle&quot;</li>
                   <li>Convince at least one human to cosplay as PEPE JIN</li>
                 </ul>
               </div>
@@ -123,7 +123,7 @@ export default function Home() {
                 <h4 className="text-xl font-semibold mb-2">Phase 4: Legendary Amphibian Status</h4>
                 <ul className="list-disc list-inside">
                   <li>Achieve enlightenment (or at least pretend to for the 'gram)</li>
-                  <li>Open a chain of meditation retreats called "Zen and the Art of Frog Maintenance"</li>
+                  <li>Open a chain of meditation retreats called &quot;Zen and the Art of Frog Maintenance&quot;</li>
                   <li>Retire to a lily pad, but continue to drop wisdom in the form of fortune cookie messages</li>
                 </ul>
               </div>
