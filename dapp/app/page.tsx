@@ -108,7 +108,7 @@ export default function Home() {
                 <ul className="list-disc list-inside">
                   <li>Learn to slice a fly mid-air with a miniature katana</li>
                   <li>Master the &quot;crane kick&quot; from Karate Kid (but make it frog-style)</li>
-                  <li>Develop a signature move called &quot;The Hopposite Direction"</li>
+                  <li>Develop a signature move called &quot;The Hopposite Direction&quot;</li>
                 </ul>
               </div>
               <div className="bg-green-900 bg-opacity-75 p-6 rounded-lg">
@@ -122,7 +122,7 @@ export default function Home() {
               <div className="bg-green-900 bg-opacity-75 p-6 rounded-lg">
                 <h4 className="text-xl font-semibold mb-2">Phase 4: Legendary Amphibian Status</h4>
                 <ul className="list-disc list-inside">
-                  <li>Achieve enlightenment (or at least pretend to for the 'gram)</li>
+                  <li>Achieve enlightenment (or at least pretend to for the &apos;gram)</li>
                   <li>Open a chain of meditation retreats called &quot;Zen and the Art of Frog Maintenance&quot;</li>
                   <li>Retire to a lily pad, but continue to drop wisdom in the form of fortune cookie messages</li>
                 </ul>
